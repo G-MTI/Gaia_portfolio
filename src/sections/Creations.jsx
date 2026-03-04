@@ -23,7 +23,7 @@ const creations = [
         title:"SMABacktest",
         link:"https://smabacktest.streamlit.app/",
         githubLink: "https://github.com/G-MTI/smabacktest",
-        description: "A library management system designed to provide a simple and efficient way to track and organize your books",
+        description: "A web application built with Streamlit that allows users to backtest a simple moving average (SMA) trading strategy on historical stock data. The app provides an interactive interface for users to input their desired parameters, such as the stock ticker, time period, and SMA window size. It then retrieves the relevant stock data, applies the SMA strategy, and visualizes the results through charts and performance metrics.",
         image: "/creations/SMA.png",
         tags: ["Python", "pandas", "Streamlit"],
     },
