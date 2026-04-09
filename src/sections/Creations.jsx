@@ -1,6 +1,5 @@
 
 import { ExternalLink} from "lucide-react"
-import { Github} from "lucide-react"
 
 const creations = [
     {
@@ -8,8 +7,8 @@ const creations = [
         link:"https://finance-dashboard-theta-mocha.vercel.app/",
         githubLink: "https://github.com/G-MTI/financeDashboard",
         description: "A web app to track income and expenses and to visualize them with charts.",
-        image: "/creations/FinanceDashboard.png",
-        tags: ["React","Vite" , "Rechartsimple", "Tailwind CSS"],
+        image: "/creations/financeDashboard.png",
+        tags: ["React","Vite" , "Recharts", "Tailwind CSS"],
     },
     {
         title:"Cicly",
