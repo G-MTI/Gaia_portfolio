@@ -4,6 +4,14 @@ import { Github} from "lucide-react"
 
 const creations = [
     {
+        title:"FinanceDashboard",
+        link:"https://finance-dashboard-theta-mocha.vercel.app/",
+        githubLink: "https://github.com/G-MTI/financeDashboard",
+        description: "A web app to track income and expenses and to visualize them with charts.",
+        image: "/creations/FinanceDashboard.png",
+        tags: ["React","Vite" , "Rechart", "Tailwind CSS"],
+    },
+    {
         title:"Cicly",
         link:"https://g-mti.github.io/cicly/index.html",
         githubLink: "https://github.com/G-MTI/cicly",
