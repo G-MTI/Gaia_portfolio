@@ -1,6 +1,6 @@
 
 import { ExternalLink} from "lucide-react"
-import { Github } from "lucide-react"
+import { GitGraph } from "lucide-react"
 
 const creations = [
     {
@@ -84,7 +84,7 @@ export const Creations = () =>{
                             <ExternalLink size={16} /> 
                         </a>
                         <a href={creation.githubLink} className="p-2 rounded-full bg-white hover:bg-primary flex items-center justify-center">
-                            <Github size={16} /> 
+                            <GitGraph size={16} /> 
                         </a>
 
                     </div>
