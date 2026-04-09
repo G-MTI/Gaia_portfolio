@@ -12,6 +12,14 @@ const creations = [
         tags: ["React","Vite" , "Recharts", "Tailwind CSS"],
     },
     {
+        title:"SMABacktest",
+        link:"https://smabacktest.streamlit.app/",
+        githubLink: "https://github.com/G-MTI/smabacktest",
+        description: "A web application built with Streamlit that allows users to backtest a simple moving average (SMA) trading strategy on historical stock data.",
+        image: "/creations/SMA.png",
+        tags: ["Python", "pandas", "Streamlit"],
+    },
+    {
         title:"Cicly",
         link:"https://g-mti.github.io/cicly/index.html",
         githubLink: "https://github.com/G-MTI/cicly",
@@ -26,14 +34,6 @@ const creations = [
         description: "A library management system designed to provide a simple and efficient way to track and organize your books",
         image: "/creations/Librify.png",
         tags: ["HTML/CSS", "JavaScript", "API"],
-    },
-    {
-        title:"SMABacktest",
-        link:"https://smabacktest.streamlit.app/",
-        githubLink: "https://github.com/G-MTI/smabacktest",
-        description: "A web application built with Streamlit that allows users to backtest a simple moving average (SMA) trading strategy on historical stock data.",
-        image: "/creations/SMA.png",
-        tags: ["Python", "pandas", "Streamlit"],
     },
     {
         title:"Mito della Velocità",
