@@ -9,7 +9,7 @@ const creations = [
         githubLink: "https://github.com/G-MTI/financeDashboard",
         description: "A web app to track income and expenses and to visualize them with charts.",
         image: "/creations/FinanceDashboard.png",
-        tags: ["React","Vite" , "Rechart", "Tailwind CSS"],
+        tags: ["React","Vite" , "Rechartsimple", "Tailwind CSS"],
     },
     {
         title:"Cicly",
